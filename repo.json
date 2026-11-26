@@ -1,0 +1,9 @@
+{
+    "name": "3rabi عربي",
+    "description": "مشاهدة الافلام والمسلسلات تجربة خالية من الاعلانات",
+    "iconUrl": "https://raw.githubusercontent.com/muhammedginaymi-cmyk/Arap/refs/heads/main/icon.png",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://raw.githubusercontent.com/muhammedginaymi-cmyk/Arap/builds/plugins.json"
+    ]
+}
