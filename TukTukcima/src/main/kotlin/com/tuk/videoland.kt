@@ -7,7 +7,7 @@ import com.lagradost.cloudstream3.utils.*
 
 class VideolandExtractor : ExtractorApi() {
     override var name = "Videoland"
-    override var mainUrl = "https://videoland.sbs"
+    override var mainUrl = "https://tuktukcinemas.com/"
     override val requiresReferer = true
 
     override suspend fun getUrl(
